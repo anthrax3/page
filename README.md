@@ -1,1 +1,1 @@
-[The boot ](https://iconboot.github.io/icon/)
+[Project page](https://iconboot.github.io/icon/)
