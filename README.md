@@ -1,1 +1,1 @@
-[Project page](https://iconboot.github.io/icon.page/)
+[Project page](https://iconboot.github.io/page/)
